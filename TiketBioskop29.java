@@ -6,7 +6,7 @@ public class TiketBioskop29 {
         int hargaTiket = 50000;
         int tiketTerjual = 0;
         int totalPendapatan = 0;
-        
+    
         do {
             System.out.print("Masukkan jumlah tiket yang dibeli (Ketik -99 untuk selesai): ");
             jumlahTiket = sc.nextInt();
